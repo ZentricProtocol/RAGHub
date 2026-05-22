@@ -250,3 +250,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## Join the Conversation
 
 This project is part of the [r/RAG](https://www.reddit.com/r/Rag/) community. Have feedback or suggestions? Feel free to open an issue, start a discussion, or join the conversation on our [Discord server](https://discord.gg/nn92wC5QmN)! We want to make this repository a valuable resource for everyone exploring the RAG ecosystem, and your input is crucial.
+
+
+## Security
+
+- [Zentric Protocol](https://zentricprotocol.com) - Prompt injection detection and PII redaction for RAG pipelines. API + MCP server, 23ms latency, GDPR compliant.
