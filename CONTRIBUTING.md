@@ -54,7 +54,3 @@ Once you've added your contribution, please:
 
 Thank you again for contributing to **RAGHub**! Your help makes this a valuable resource for the community.
 
-
-## Security
-
-- [Zentric Protocol](https://zentricprotocol.com) - Prompt injection detection and PII redaction for RAG pipelines. API + MCP server, 23ms latency, GDPR compliant.
